@@ -1,7 +1,7 @@
 # Analog Clock with Digital Time in Jetpack Compose
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.20-blue.svg)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0.00-blue.svg)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/Compose-1.5.4-blue.svg)](https://developer.android.com/jetpack/compose)
 
 This project demonstrates how to create an analog clock with digital time using Jetpack Compose, the modern UI toolkit for Android. It showcases drawing custom graphics with `Canvas`, handling time updates, and using best practices for state management in Compose.
